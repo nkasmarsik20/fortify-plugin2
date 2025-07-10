@@ -21,7 +21,7 @@
         <groupId>org.jenkins-ci.plugins</groupId>
         <artifactId>plugin</artifactId>
         <version>4.75</version>
-        <relativePath />
+        <relativePath/>
     </parent>
 
     <artifactId>fortify</artifactId>
@@ -101,7 +101,7 @@
         <dependency>
             <groupId>com.fortify</groupId>
             <artifactId>ssc-restapi-client</artifactId>
-            <version>23.2.1</version>
+            <version>25.2</version>
             <type>jar</type>
             <scope>compile</scope>
             <exclusions>
